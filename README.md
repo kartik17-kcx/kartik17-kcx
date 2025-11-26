@@ -16,7 +16,7 @@
 - 👨🏻‍💻 &nbsp; Check my repositories here: [GitHub](https://github.com/kartik17-kcx?tab=repositories)
 - 💬 &nbsp; Ask me anything about **APIs, SQL, ETL, Cloud, PySpark**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">💻 Tech Stack (Backend & Data Engineering) 💻</h2>
 
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
@@ -81,6 +81,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartik17-kcx/kartik17-kcx/output/github-snake-dark.svg" />
