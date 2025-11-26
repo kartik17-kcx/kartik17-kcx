@@ -15,7 +15,6 @@
 - 🤝 &nbsp; Always open to collaborating on data engineering + backend projects
 - 👨🏻‍💻 &nbsp; Check my repositories here: [GitHub](https://github.com/kartik17-kcx?tab=repositories)
 - 💬 &nbsp; Ask me anything about **APIs, SQL, ETL, Cloud, PySpark**
-- 🌐 &nbsp; Portfolio coming soon 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
