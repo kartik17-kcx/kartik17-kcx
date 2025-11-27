@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🔭 &nbsp; **Backend Developer & Data Engineering Learner**
+- 🔭 &nbsp; **Backend Developer & Data Engineer**
 - ⚙️ &nbsp; Working with **Python, SQL, Airflow, PySpark, ETL, Data Pipelines**
 - 🌱 &nbsp; Currently exploring: **Spark | Snowflake | AWS (S3, EC2, RDS) | dbt | Kafka**
 - 🧠 &nbsp; Interested in **Modern Data Stack, Distributed Computing & Cloud Architecture**
